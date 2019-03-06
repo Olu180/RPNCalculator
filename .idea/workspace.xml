@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d987401-0e93-49c3-b195-51853ea74fe1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/RPNCalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YXCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/YooxCalculator/META-INF/YooxCalculator.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RPNCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/RPNCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/RPNCalculatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +12,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/RPNCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RPNCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,24 +73,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="YooxCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YooxCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="YXCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YXCalculator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="YooxCalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="YooxCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="YXCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YXCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YXCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YXCalculator" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,7 +103,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551879929013" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551882504849" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -117,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in YXCalculator">
+  <component name="RunManager" selected="JUnit.RPNCalculatorTest">
     <configuration name="All in YXCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="YXCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -135,11 +152,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RPNCalculatorTest.input_3_5_8_MULT_7_ADD_MULT_should_return_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RPNCalculatorTest.empty_input_should_return_0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="YXCalculator" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RPNCalculatorTest" />
-      <option name="METHOD_NAME" value="input_3_5_8_MULT_7_ADD_MULT_should_return_" />
+      <option name="METHOD_NAME" value="empty_input_should_return_0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,19 +183,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RPNCalculatorTest.input_3_5_8_MULT_7_ADD_MULT_should_return_" />
       <item itemvalue="JUnit.RPNCalculatorTest.should_compute_100_for_input_20_5_MULT" />
       <item itemvalue="JUnit.RPNCalculatorTest" />
       <item itemvalue="JUnit.RPNCalculatorTest.input_5_1_2_ADD_4_MUL_ADD_3_SUB_should_return_14" />
       <item itemvalue="JUnit.All in YXCalculator" />
+      <item itemvalue="JUnit.RPNCalculatorTest.empty_input_should_return_0" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in YXCalculator" />
         <item itemvalue="JUnit.RPNCalculatorTest" />
+        <item itemvalue="JUnit.RPNCalculatorTest.empty_input_should_return_0" />
+        <item itemvalue="JUnit.All in YXCalculator" />
         <item itemvalue="JUnit.RPNCalculatorTest.input_5_1_2_ADD_4_MUL_ADD_3_SUB_should_return_14" />
         <item itemvalue="JUnit.RPNCalculatorTest.should_compute_100_for_input_20_5_MULT" />
-        <item itemvalue="JUnit.RPNCalculatorTest.input_3_5_8_MULT_7_ADD_MULT_should_return_" />
       </list>
     </recent_temporary>
   </component>
@@ -196,15 +213,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RPNCalculatorTest_should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT - 2019.03.06 at 13h 16m 11s.xml">
-      <configuration name="RPNCalculatorTest.should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RPNCalculatorTest_should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT - 2019.03.06 at 13h 17m 57s.xml">
-      <configuration name="RPNCalculatorTest.should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RPNCalculatorTest_should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT - 2019.03.06 at 13h 18m 31s.xml">
-      <configuration name="RPNCalculatorTest.should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RPNCalculatorTest_should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT - 2019.03.06 at 13h 19m 08s.xml">
       <configuration name="RPNCalculatorTest.should_compute_3_for_input_3_5_8_MULT_7_ADD_MULT" configurationId="JUnit" />
     </history-entry>
@@ -226,11 +234,21 @@
     <history-entry file="RPNCalculatorTest - 2019.03.06 at 13h 39m 16s.xml">
       <configuration name="RPNCalculatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_YXCalculator - 2019.03.06 at 13h 45m 40s.xml">
+      <configuration name="All in YXCalculator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RPNCalculatorTest_empty_input_should_return_0 - 2019.03.06 at 14h 15m 37s.xml">
+      <configuration name="RPNCalculatorTest.empty_input_should_return_0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RPNCalculatorTest - 2019.03.06 at 14h 28m 30s.xml">
+      <configuration name="RPNCalculatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="2880" y="0" width="1147" height="1400" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31922722" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32566696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,7 +257,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15627466" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15627466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -292,20 +310,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RPNCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/YXCalculator.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/RPNCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test/RPNCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        <state relative-caret-position="395">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
